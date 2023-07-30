@@ -1,1 +1,1 @@
-Made this a long time ago. Click the .html file to get started : )
+Made this a long time ago. Download the files then open the .html file in your favorite browser to get started :) (FireFox works best)
